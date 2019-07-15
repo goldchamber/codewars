@@ -7,6 +7,6 @@ To improve my C++ skills, I've decided to do at least one C++ kata a day, more i
 | Rank      | Kata Count |
 |-----------|:----------:|
 | Eight Kyu |     12     |
-| Seven Kyu |      3     |
-|  Six Kyu  |      3     |
+| Seven Kyu |      4     |
+|  Six Kyu  |      2     |
 
